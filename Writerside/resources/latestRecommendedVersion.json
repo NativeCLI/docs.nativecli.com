@@ -1,4 +1,10 @@
-{
-  "packageName": "nativephp/electron",
-  "version": "^1@beta"
-}
+[
+  {
+    "packageName": "nativephp/electron",
+    "version": "^1@beta"
+  },
+  {
+    "packageName": "nativephp/laravel",
+    "version": "^1@beta"
+  }
+]
