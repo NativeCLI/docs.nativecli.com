@@ -13,4 +13,5 @@
     </toc-element>
     <toc-element topic="Contributing.md"/>
     <toc-element topic="Sponsoring.md"/>
+    <toc-element topic="Tool-Resources.md" hidden="true"/>
 </instance-profile>
