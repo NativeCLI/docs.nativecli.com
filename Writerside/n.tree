@@ -11,4 +11,5 @@
         <toc-element topic="Installation.md"/>
         <toc-element topic="Start-a-New-NativePHP-Project.md"/>
     </toc-element>
+    <toc-element topic="Contributing.md"/>
 </instance-profile>
