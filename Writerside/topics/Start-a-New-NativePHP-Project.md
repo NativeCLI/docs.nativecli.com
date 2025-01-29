@@ -32,6 +32,7 @@ NativeCLI utilises Laravels Installer library. This means that any arguments ava
    <img src="new_command.png" alt="New Command Example" />
 
 2. You'll be prompted to select some options from the Laravel installer. Choose your favourites!
+
    ![laravel_prompt.png](laravel_prompt.png)
 
 3. That's it! you'll find a new folder with your project name. It includes everything you need to get started.

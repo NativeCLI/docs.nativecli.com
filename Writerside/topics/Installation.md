@@ -25,10 +25,10 @@ NativeCLI uses PHP to execute and Composer to install.
 
 <seealso>
        <category ref="related">
-           <a href="starter.md"/>
+           <a href="Start-a-New-NativePHP-Project.md"/>
        </category>
        <category ref="external">
-           <a href="https://google.com/">Google</a>
-           <a href="https://www.jetbrains.com"/>
+           <a href="https://nativephp.com/">Google</a>
+           <a href="https://www.laravel.com">Laravel</a>
        </category>
 </seealso>
