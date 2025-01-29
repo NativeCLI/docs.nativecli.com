@@ -24,7 +24,7 @@
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
             <a href="Installation.md" type="account" summary="That's enough introductions, let's get going.">Getting Started</a>
-<!--            <a href="" type="search" summary="You liking what you see? Learn more about what this is.">What is NativeCLI?</a>-->
+            <a href="Start-a-New-NativePHP-Project.md" type="search" summary="Remind me how I create a new project!">Forgotten how to use it?</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
