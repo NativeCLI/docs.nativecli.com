@@ -1,0 +1,44 @@
+name: Check and Update Versions
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Get latest release version of nativephp/electron
+      id: electron_version
+      run: |
+        latest_version=$(curl -s https://api.github.com/repos/nativephp/electron/releases/latest | jq -r .tag_name)
+        echo "::set-output name=version::$latest_version"
+
+    - name: Get latest release version of nativephp/laravel
+      id: laravel_version
+      run: |
+        latest_version=$(curl -s https://api.github.com/repos/nativephp/laravel/releases/latest | jq -r .tag_name)
+        echo "::set-output name=version::$latest_version"
+
+    - name: Update latestRecommendedVersion.json
+      run: |
+        electron_version=${{ steps.electron_version.outputs.version }}
+        laravel_version=${{ steps.laravel_version.outputs.version }}
+        jq --arg ev "$electron_version" --arg lv "$laravel_version" \
+          '.[0].version = $ev | .[1].version = $lv' Writerside/resources/latestRecommendedVersion.json > tmp.json
+        mv tmp.json Writerside/resources/latestRecommendedVersion.json
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add Writerside/resources/latestRecommendedVersion.json
+        git commit -m "Update latest recommended versions"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
