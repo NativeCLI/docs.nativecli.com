@@ -5,6 +5,10 @@
 
     <variables>
         <primary-color>aqua</primary-color>
+        <algolia-id>S780PM8O6Q</algolia-id>
+        <algolia-index>prod_NATIVECLI</algolia-index>
+        <algolia-api-key>0d61a7d756536bcd62264e4e7718ca06</algolia-api-key>
+        <algolia-show-logo>true</algolia-show-logo>
     </variables>
     <build-profile instance="n">
         <variables>
