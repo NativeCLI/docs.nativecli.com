@@ -28,7 +28,8 @@ Sponsoring NativeCLI is easy. Simply visit our [GitHub Sponsors page](https://gi
 
 ## Our Sponsors
 
-- Be the first! [Sponsor NativeCLI](https://github.com/sponsors/PeteBishwhip)
+- [Simon Hamp](https://github.com/simonhamp) - Creator of [NativePHP](https://nativephp.com)
+- Join the list of people I'm grateful to! [Sponsor NativeCLI](https://github.com/sponsors/PeteBishwhip)
 
 ## Thank You
 
