@@ -13,6 +13,7 @@
     </toc-element>
     <toc-element toc-title="Commands">
         <toc-element topic="New.md"/>
+        <toc-element topic="cache-clear.md"/>
         <toc-element topic="check-update.md"/>
         <toc-element topic="update.md"/>
     </toc-element>
