@@ -30,10 +30,10 @@
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>Get started</title>
-            <a href="https://nativephp.com" summary="This tool works hand in hand with NativePHP. Not heard of it? Click here to check it out.">NativePHP</a>
+            <a href="%nativephp_url%" summary="This tool works hand in hand with NativePHP. Not heard of it? Click here to check it out.">NativePHP</a>
             <a href="Contributing.md" summary="Looking to contribute to this awesome project?"/>
             <a href="Sponsoring.md" summary="NativeCLI is and always will be free. It's supported solely sponsors who love what it does." />
-            <a href="https://github.com/PeteBishwhip/nativephp-cli" summary="Click here to vis the Git repo where you can report issues, request features and browse the code.">Check out the code</a>
+            <a href="%code_repo%" summary="Click here to vis the Git repo where you can report issues, request features and browse the code.">Check out the code</a>
         </primary>
 
 <!--        &lt;!&ndash;    Add several topics that are less important or are relevant only for advanced/experienced users.    &ndash;&gt;-->

@@ -1,8 +1,8 @@
 # Sponsoring
 
 ## Featured Sponsors
-<a href="https://nativephp.com/" target="_blank">
-    <img src="https://nativephp.com/logo-dark.svg" alt="NativePHP Logo" width="200"/>
+<a href="%nativephp_url%" target="_blank">
+    <img src="%nativephp_url%logo-dark.svg" alt="NativePHP Logo" width="200"/>
 </a>
 
 ## Why Sponsor NativeCLI?
@@ -33,8 +33,8 @@ Sponsoring NativeCLI is easy. Simply visit our [GitHub Sponsors page](https://gi
 
 ## Our Sponsors
 
-- [Simon Hamp](https://github.com/simonhamp) - Creator of [NativePHP](https://nativephp.com)
-- Join the list of people I'm grateful to! [Sponsor NativeCLI](https://github.com/sponsors/PeteBishwhip)
+- [Simon Hamp](https://github.com/simonhamp) - Creator of [NativePHP](%nativephp_url%)
+- Join the list of people I'm grateful to! [Sponsor NativeCLI](%sponsor_url%)
 
 ## Thank You
 

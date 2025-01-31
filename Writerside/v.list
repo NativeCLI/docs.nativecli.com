@@ -2,4 +2,8 @@
 <!DOCTYPE vars SYSTEM "https://resources.jetbrains.com/writerside/1.0/vars.dtd">
 <vars>
     <var name="product" value="Writerside"/>
+    <var name="code_repo" value="https://github.com/PeteBishwhip/native-cli"/>
+    <var name="docs_repo" value="https://github.com/PeteBishwhip/nativecli.com"/>
+    <var name="sponsor_url" value="https://github.com/sponsors/PeteBishwhip"/>
+    <var name="nativephp_url" value="https://nativephp.com/"/>
 </vars>
