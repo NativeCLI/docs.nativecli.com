@@ -1,5 +1,10 @@
 # Sponsoring
 
+## Featured Sponsors
+<a href="https://nativephp.com/" target="_blank">
+    <img src="https://nativephp.com/logo-dark.svg" alt="NativePHP Logo" width="200"/>
+</a>
+
 ## Why Sponsor NativeCLI?
 
 NativeCLI is an open-source project aimed at providing a command-line interface for NativePHP, making it easier for developers to manage their NativePHP projects. By sponsoring this project, you help ensure its continued development and maintenance, allowing us to add new features, fix bugs, and improve documentation.
