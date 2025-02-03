@@ -27,7 +27,7 @@ Before contributing, read our Code of Conduct to learn more about our community 
 
 Refer to the following channels to connect with fellow contributors or to stay up-to-date with news about the NativeCLI project:
 
-* Join our project contributors on [GitHub Discussions](https://github.com/PeteBishwhip/nativephp-cli/discussions).
+* Join our project contributors on [GitHub Discussions](%code_repo%/discussions).
 * Stay updated on the latest news and changes to the project by signing up to receive our newsletter.
 
 ## Share ideas

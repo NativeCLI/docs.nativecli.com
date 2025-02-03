@@ -29,7 +29,7 @@ We offer several sponsorship tiers to accommodate different levels of support. E
 
 ## How to Sponsor
 
-Sponsoring NativeCLI is easy. Simply visit our [GitHub Sponsors page](https://github.com/sponsors/PeteBishwhip) and choose a sponsorship tier that suits you. Your support is greatly appreciated and will go a long way in helping us maintain and improve the project.
+Sponsoring NativeCLI is easy. Simply visit our [GitHub Sponsors page](%sponsor_url%) and choose a sponsorship tier that suits you. Your support is greatly appreciated and will go a long way in helping us maintain and improve the project.
 
 ## Our Sponsors
 
