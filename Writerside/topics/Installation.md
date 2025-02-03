@@ -18,7 +18,7 @@ NativeCLI uses PHP to execute and Composer to install.
 1. Execute the following command in the terminal:
 
    ```bash
-    composer global require PeteBishwhip/native-cli
+    composer global require nativecli/nativecli:"^1@beta"
    ```
 
 2. 🚀 Go forth and make great apps!
