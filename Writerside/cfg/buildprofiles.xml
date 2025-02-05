@@ -9,7 +9,17 @@
         <algolia-index>prod_NATIVECLI</algolia-index>
         <algolia-api-key>0d61a7d756536bcd62264e4e7718ca06</algolia-api-key>
         <algolia-show-logo>true</algolia-show-logo>
+
+        <product-web-url>https://docs.nativecli.com</product-web-url>
+        <download-title>Get NativeCLI</download-title>
+        <download-page>https://docs.nativecli.com/installation.html</download-page>
+        <showDownloadButton>true</showDownloadButton>
     </variables>
+
+    <footer>
+        <link href="https://nativephp.com/ios?ref=nativecli">Join NativePHP Early Access Program!</link>
+    </footer>
+
     <build-profile instance="n">
         <variables>
             <noindex-content>false</noindex-content>
