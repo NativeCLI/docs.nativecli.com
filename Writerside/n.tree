@@ -15,6 +15,7 @@
         <toc-element topic="New.md"/>
         <toc-element topic="cache-clear.md"/>
         <toc-element topic="check-update.md"/>
+        <toc-element topic="self-update.md"/>
         <toc-element topic="update.md"/>
     </toc-element>
     <toc-element topic="Contributing.md"/>
