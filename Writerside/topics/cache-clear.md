@@ -17,8 +17,6 @@ nativecli cache:clear [OPTIONS]
 
 ## Options
 
-Describe what each option is used for:
-
 -c, --cache
 : Select a specific cache to clear. If not specified, all caches will be cleared.
 

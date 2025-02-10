@@ -16,10 +16,15 @@ nativecli self-update [VERSION]
 
 ## Options
 
-Describe what each option is used for:
+<tip>All options are only available since v1.0.1-release.1</tip>
 
-Version
-: No flag required. If a version is specified, NativeCLI will attempt to update to that version. If no version is specified, NativeCLI will update to the latest stable version.
+-f, --format
+: By default, update status is output in `text`. For programmatic use, `json` is also a valid option:
+
+: ```nativecli self-update --format json```
+
+--check
+: Check for updates without updating.
 
 ## Examples
 

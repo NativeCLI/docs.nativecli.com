@@ -15,10 +15,8 @@ nativecli check-update [OPTIONS]
 
 ## Options
 
-Describe what each option is used for:
-
 -f, --format
-: By default, update status is output in `text`. For progrmatic use, `json` is also a valid option:
+: By default, update status is output in `text`. For programmatic use, `json` is also a valid option:
 
 : ```nativecli check-update --format json```
 

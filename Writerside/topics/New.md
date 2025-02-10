@@ -14,8 +14,6 @@ nativecli new <directory-name>
 
 ## Options
 
-Describe what each option is used for:
-
 <tip>The options below are only available from version 1.0.1-release.1 and later.</tip>
 
 --ios

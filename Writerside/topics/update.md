@@ -15,8 +15,6 @@ nativecli update [OPTIONS]
 
 ## Options
 
-Describe what each option is used for:
-
 -n, --non-interactive
 : Provides a non-interactive experience, suitable for CI. Updates are processed immediately to the
 latest available version.
