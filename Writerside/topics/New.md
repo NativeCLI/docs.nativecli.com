@@ -16,6 +16,13 @@ nativecli new <directory-name>
 
 Describe what each option is used for:
 
+<tip>The options below are only available from version 1.0.1-release.1 and later.</tip>
+
+--ios
+: Indicates whether the project should be set up for iOS development, instead of Desktop.
+
+<tip>The options below are available since the first version.</tip>
+
 --dev
 : Installs the latest "development" release.
 
