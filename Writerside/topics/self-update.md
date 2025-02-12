@@ -16,7 +16,7 @@ nativecli self-update [VERSION]
 
 ## Options
 
-<tip>All options are only available since v1.0.1-release.1</tip>
+<tip>All options are only available since 1.0.1</tip>
 
 -f, --format
 : By default, update status is output in `text`. For programmatic use, `json` is also a valid option:
