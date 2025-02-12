@@ -8,6 +8,10 @@ NativeCLI provides a way to configure certain behaviours within the application.
 
 You are able to configure both a global configuration and a local, project-specific configuration.
 
+<tip>
+If you only provide the key, the value will be output. If you provide both the key and value, the value will be set.
+</tip>
+
 ## Global Configuration
 
 ## Command
