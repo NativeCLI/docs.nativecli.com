@@ -14,12 +14,8 @@ nativecli new <directory-name>
 
 ## Options
 
-<tip>The options below are only available from version 1.0.1-release.1 and later.</tip>
-
 --ios
 : Indicates whether the project should be set up for iOS development, instead of Desktop.
-
-<tip>The options below are available since the first version.</tip>
 
 --dev
 : Installs the latest "development" release.
@@ -39,41 +35,32 @@ nativecli new <directory-name>
 --database
 : The database driver your application will use.
 
---stack
-: The Breeze / Jetstream stack that should be installed.
+--react
+: Install the React Starter Kit
 
---breeze
-: Installs the Laravel Breeze scaffolding.
+--vue
+: Install the Vue Starter Kit
 
---jet
-: Installs the Laravel Jetstream scaffolding.
+--livewire
+: Install the Livewire Starter Kit
 
---dark
-: Indicate whether Breeze or Jetstream should be scaffolded with dark mode support.
+--livewire-class-components
+: Generate stand-alone Livewire class components
 
---typescript
-: Indicate whether Breeze should be scaffolded with TypeScript support.
-
---eslint
-: Indicate whether Breeze should be scaffolded with ESLint and Prettier support.
-
---ssr
-: Indicate whether Breeze or Jetstream should be scaffolded with Inertia SSR support.
-
---api
-: Indicates whether Jetstream should be scaffolded with API support.
-
---teams
-: Indicates whether Jetstream should be scaffolded with team support.
-
---verification
-: Indicates whether Jetstream should be scaffolded with email verification support.
+--workos
+: Use WorkOS for authentication
 
 --pest
 : Installs the Pest testing framework.
 
 --phpunit
 : Installs the PHPUnit testing framework.
+
+--npm
+: Install and build NPM dependencies
+
+--using
+: Install a custom starter kit from a community maintained package
 
 --force, -f
 : Forces install even if the directory already exists.
