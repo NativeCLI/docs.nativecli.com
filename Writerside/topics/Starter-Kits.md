@@ -15,6 +15,6 @@ nativecli new myproject --using=nativecli/desktop-starter-flux
 ## Available Starter Kits
 
 Flux for NativePHP Desktop
-: <a href="https://github.com/NativeCLI/desktop-starter-flux">View on GitHub</a>
+: <a href="https://github.com/NativeCLI/starter-desktop-flux">View on GitHub</a>
 
 We welcome contributions and additions to this list.
