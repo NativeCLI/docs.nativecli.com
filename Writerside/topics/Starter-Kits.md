@@ -9,7 +9,7 @@ To use a starter kit, you simply invoke the new command with the `--using` flag 
 For example, to create a new project using the NativeCLI `flux` starter kit, you would run:
 
 ```shell
-nativecli new myproject --using=nativecli/desktop-starter-flux
+nativecli new myproject --using=nativecli/starter-desktop-flux
 ```
 
 ## Available Starter Kits
