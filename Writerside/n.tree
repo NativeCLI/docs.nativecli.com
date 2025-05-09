@@ -15,6 +15,7 @@
         <toc-element topic="New.md"/>
         <toc-element topic="cache-clear.md"/>
         <toc-element topic="check-update.md"/>
+        <toc-element topic="inertia-fix.md"/>
         <toc-element topic="ios-install.md"/>
         <toc-element topic="self-update.md"/>
         <toc-element topic="update.md"/>
