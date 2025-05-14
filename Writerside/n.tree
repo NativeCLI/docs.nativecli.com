@@ -17,6 +17,7 @@
         <toc-element topic="check-update.md"/>
         <toc-element topic="inertia-fix.md"/>
         <toc-element topic="ios-install.md"/>
+        <toc-element topic="mobile-install.md"/>
         <toc-element topic="self-update.md"/>
         <toc-element topic="update.md"/>
     </toc-element>
