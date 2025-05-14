@@ -8,7 +8,7 @@ If you do not have a license, you can purchase one from <a href="https://nativep
 <tip>
 This command was available until version 1.1.2.
 
-From version 1.2.0, you should use <a href="mobile-install.md" summary="mobile:install"> instead.
+From version 1.2.0, you should use <a href="mobile-install.md" summary="mobile:install" /> instead.
 </tip>
 
 This command will bootstrap your existing Laravel app with the NativePHP for iOS package, ready for you to build your iOS app.
