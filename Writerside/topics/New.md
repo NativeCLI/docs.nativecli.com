@@ -14,8 +14,8 @@ nativecli new <directory-name>
 
 ## Options
 
---ios
-: Indicates whether the project should be set up for iOS development, instead of Desktop.
+--mobile
+: Indicates whether the project should be set up with NativePHP for Mobile, instead of Desktop.
 
 --dev
 : Installs the latest "development" release.
